@@ -1,0 +1,37 @@
+[
+  {
+    "event_name": "event_card_clicked",
+    "event_description": "User clicked on an event card to view event details",
+    "file_path": "/Users/adrian/WebstormProjects/nextjs-crash-course/components/EventCard.tsx"
+  },
+  {
+    "event_name": "explore_events_clicked",
+    "event_description": "User clicked the 'Explore Events' button to scroll to events section",
+    "file_path": "/Users/adrian/WebstormProjects/nextjs-crash-course/components/ExploreBtn.tsx"
+  },
+  {
+    "event_name": "nav_home_clicked",
+    "event_description": "User clicked Home navigation link",
+    "file_path": "/Users/adrian/WebstormProjects/nextjs-crash-course/components/Navbar.tsx"
+  },
+  {
+    "event_name": "nav_event_clicked",
+    "event_description": "User clicked Event navigation link",
+    "file_path": "/Users/adrian/WebstormProjects/nextjs-crash-course/components/Navbar.tsx"
+  },
+  {
+    "event_name": "nav_create_clicked",
+    "event_description": "User clicked Create navigation link (conversion funnel entry)",
+    "file_path": "/Users/adrian/WebstormProjects/nextjs-crash-course/components/Navbar.tsx"
+  },
+  {
+    "event_name": "webgl_render_error",
+    "event_description": "WebGL rendering error occurred in LightRays animation",
+    "file_path": "/Users/adrian/WebstormProjects/nextjs-crash-course/components/LightRays.tsx"
+  },
+  {
+    "event_name": "webgl_cleanup_error",
+    "event_description": "Error occurred during WebGL cleanup in LightRays component",
+    "file_path": "/Users/adrian/WebstormProjects/nextjs-crash-course/components/LightRays.tsx"
+  }
+]
